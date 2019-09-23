@@ -1,0 +1,4 @@
+VertebrateName BodyTemperature SkinCover Class
+human warm-blooded hair mammal
+python cold-blooded scales mammal
+salmon cold-blooded scales fish

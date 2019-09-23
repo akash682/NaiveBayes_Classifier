@@ -1,0 +1,2 @@
+VertebrateName BodyTemperature SkinCover
+gila-monster cold-blooded scales
